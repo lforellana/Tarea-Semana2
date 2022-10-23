@@ -1,0 +1,17 @@
+{
+  "name": "tareasemana2",
+  "version": "0.0.1",
+  "description": "Tarea Semana 2 Programacion IV",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index"
+  },
+  "keywords": [
+    "tarea",
+    "semana2",
+    "progIV"
+  ],
+  "author": "Luis Fernando Orellana",
+  "license": "ISC"
+}
