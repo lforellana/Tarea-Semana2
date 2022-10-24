@@ -30,10 +30,7 @@ switch(accion){
         //Leer archivo
         leerJSON()
         break
-        case '6':
-            //Leer un dato
-            leer1JSON()
-            break
+    
     default:
         console.log('Opcion incorrecta')
         break
@@ -78,4 +75,5 @@ function leerJSON(){
         console.log('Esto es un registro: ${this.data.actividad}')
       });
 
+      
 }
